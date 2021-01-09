@@ -1,0 +1,10 @@
+useful info
+
+for integers zero values are False and non-zero values are True
+
+if False statements don't execute and code is skipped
+
+True behaviour that means we want to skip code
+    x = True
+    if not x:
+
